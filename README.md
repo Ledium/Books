@@ -1,4 +1,4 @@
-**LogApp project**
+**LogService.App project**
 
 I have decided to implement Dependency Injection in order to have the ability to use more than one logging service through the ILog interface. In order to use a new logger you just have to register it  in Program.cs.
 
